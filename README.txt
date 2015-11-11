@@ -1,2 +1,2 @@
 # Objects
-Fun with JavaScript Closures
+Fun with JavaScript Objects
