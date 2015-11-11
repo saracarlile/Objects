@@ -14,3 +14,7 @@ function full(){
 
 jar.round.pour = full;
 jar.round.pour();
+
+//console reads: 
+//"fill me"
+//"i'm full"
