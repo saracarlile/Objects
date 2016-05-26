@@ -14,7 +14,7 @@ var dataTypeHolder = {
     }     
 };
 
-//Iterate over object and rint values to console.
+//Iterate over object and print values to console.
 for (var val in dataTypeHolder){
    console.log(dataTypeHolder[val]);
 }
